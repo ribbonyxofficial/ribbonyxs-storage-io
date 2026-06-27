@@ -2,7 +2,7 @@
 
 Hey! I'm Ribbonyx.
 
-This repository is a personal font storage collection used for my projects and web experiments with `@font-face` and jsDelivr CDN.
+This repository is a personal font & audio storage collection used for my projects and web experiments with `@font-face` and jsDelivr CDN.
 
 ## ⚠️ Important Notice
 Most fonts in this repository are **not created by me**.  
